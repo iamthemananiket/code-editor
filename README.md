@@ -10,6 +10,11 @@ A web-app of this kind would need very low latency to improve the site's UX. Sin
 **Using the web app** - 
 1. Visit http://139.59.0.244/ to use our web-app that has been hosted on a 512MB/20GB/Ubuntu16 droplet located in Bangalore data center.
 2. You now have to load a project that is currently existing in the server. Hence, type one of the following project names into the text box.
-  i. jQuery-Todo-master
-  ii. Crossword
+i. jQuery-Todo-master
+ii. Crossword
 3. You can then edit the HTML/CSS/JS from the code-editor and get to view the live preview of the code.
+
+The project uses Js for most event trigfering and handling. PhP for regexing, responding and displaying the result of the source code on the frame.
+
+***Screenshots***
+![Web app]: 
