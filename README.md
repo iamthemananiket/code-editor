@@ -17,4 +17,9 @@ ii. Crossword
 The project uses Js for most event trigfering and handling. PhP for regexing, responding and displaying the result of the source code on the frame.
 
 ***Screenshots***
-![Web app]: 
+https://drive.google.com/open?id=0B0VcEe5WTNdoczFEb3lGQTFTRFU
+https://drive.google.com/open?id=0B0VcEe5WTNdoN0NBZy01X3g3bm8
+https://drive.google.com/open?id=0B0VcEe5WTNdocHpkRzh6QlB4ajg
+
+We compared the performance of the our DigitalOcean web app to one that was hosted on Microsoft Azure.
+The serverside HTML/CSS/JS files took an average of 350ms to load for Azure whereas those on DigitalOcean took just 60ms.
